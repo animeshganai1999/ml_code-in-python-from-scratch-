@@ -74,3 +74,4 @@ plt.plot(y_pred,color = 'green',label = 'predicted value')
 plt.legend()
 plt.show()
 
+
